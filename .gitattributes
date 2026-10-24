@@ -1,0 +1,2 @@
+# 줄바꿈을 LF로 통일 (Windows에서도 CRLF로 바꾸지 않음)
+* text=auto eol=lf
